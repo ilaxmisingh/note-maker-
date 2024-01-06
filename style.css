@@ -23,5 +23,15 @@ input{
 }
 button{
     border-radius: 20px;
-    border-color: lightseagreen;
+    border-color:red;
+    background-color: rgb(247, 57, 57);
+    color: white;
+}
+div{
+    padding: 50px;
+    margin: 20px;
+    border-radius: 2mm;
+    border: 10px;
+    border-color: black;
+    background-color: white;
 }
